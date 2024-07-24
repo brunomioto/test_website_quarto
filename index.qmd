@@ -1,0 +1,40 @@
+---
+title: "The macroecology of knowledge: Spatio-temporal patterns of name-bearing types in biodiversity science"
+subtitle: "Code"
+format: html
+eval: FALSE
+date: 2024-07-24
+author:
+  - name: Gabriel Nakamura
+    orcid: 0000-0002-1825-0097
+  - name: Lívia Estéfane F. Frateles
+    orcid: 0000-0002-1825-0097
+  - name: Bruno H. Mioto Stabile
+    orcid: 0000-0002-1825-0097
+  - name: Matheus Lima Araujo
+    orcid: 0000-0002-1825-0097
+  - name: Emanuel Neuhaus
+    orcid: 0000-0002-1825-0097
+  - name: Manoela Maria Ferreira Marinho
+    orcid: 0000-0002-1825-0097
+  - name: Aline Richter
+    orcid: 0000-0002-1825-0097
+  - name: Liuyong Ding
+    orcid: 0000-0002-1825-0097
+  - name: Tiago Magalhães da Silva Freitas
+    orcid: 0000-0002-1825-0097
+  - name: Bruno Eleres Soares
+    orcid: 0000-0002-1825-0097
+  - name: Weferson Júnio da Graça
+    orcid: 0000-0002-1825-0097
+  - name: José Alexandre Felizola Diniz-Filho
+    orcid: 0000-0002-1825-0097
+---
+
+# Título
+
+texto texto
+
+## Título 2
+
+Texto texto
